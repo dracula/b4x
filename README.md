@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [B4X](https://www.b4x.com/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [B4X](https://www.b4x.com/).
 
 ![Screenshot](./screenshot.png)
 
