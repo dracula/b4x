@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/b4x-theme-dracula](https://draculatheme.com/b4x-theme-dracula).
+All instructions can be found at [draculatheme.com/b4x](https://draculatheme.com/b4x).
 
 A while ago, I discovered the Dracula theme for Visual Studio Code, I was enchanted by it, as it does not strain my eyes, if I work for a while with the brightness of the monitor high, my eyes are blurred, so after using the dracula theme I noticed that even though I spend hours in front of the computer, nothing happens to my eyes ...
 
